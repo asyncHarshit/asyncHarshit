@@ -27,19 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![MONGODB](https://skillicons.dev/icons?i=mongodb)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![Skills](https://skillicons.dev/icons?i=java,python,c,js,ts,react,nextjs,nodejs,express,tailwind,html,css,mongodb,postgres,redis,docker,kubernetes,aws,git,github,vscode)
 
 ---
 
