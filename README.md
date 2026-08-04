@@ -1,4 +1,4 @@
-<!-- Banner -->
+ <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:111111&height=200&section=header&text=HARSHIT&fontSize=70&fontColor=c8ff00&animation=fadeIn" />
 </p>
